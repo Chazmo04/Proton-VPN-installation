@@ -126,3 +126,17 @@ Now let's go to Protonvpn.com and install</p>
 <p>
 Protonvpn offers different tiered subscriptions for there services but for this tutorial were going to select the free version</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3QOs4Wn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create an Account</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/chRBa7n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Downloading to the operatring system of your choosing</p>
+<br />
