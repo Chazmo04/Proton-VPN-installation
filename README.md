@@ -3,12 +3,13 @@
 </p>
 
 <h1> Proton VPN Instalation In Azure VM/Home PC </h1>
-This tutorial describes the prerequisites needed for installing protonvpn on your Azure Virtual Machine or Home PC.<br />
+This tutorial describes the prerequisites needed for installing ProtonVPN on your Azure Virtual Machine or Home PC.<br />
 
 <h2>Environments and Websites Used</h2>
 
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
+- cmd prompt
 - Whatismyipaddress.com
 - protonvpn.com
 
@@ -17,9 +18,6 @@ This tutorial describes the prerequisites needed for installing protonvpn on you
 - Windows 10 Pro version </b> (22H2) -x64 Gen2
 
 <h2>Steps</h2>
-
-
-
 
 <p>
 <img src="https://i.imgur.com/2F3s9Ws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -181,6 +179,7 @@ Once installation is complete login to your account</p>
 <img src="https://i.imgur.com/TX6P3lp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Now that were logged into our account connect to a VPN server
 </p>
 <br />
 
@@ -188,7 +187,7 @@ Once installation is complete login to your account</p>
 <img src="https://i.imgur.com/UbBro5a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that were logged into our account connect to a VPN server</p>
+</p>
 <br />
 
 <p>
@@ -197,3 +196,4 @@ Now that were logged into our account connect to a VPN server</p>
 <p>
 Once we connect to a server when we check whatismyipaddress.com again we can see that out ip address has changed indicating that the vpn is working properly </p>
 <br />
+
