@@ -114,35 +114,35 @@ Before we install ProtonVPN view the website whatismyipaddress.com to see you IP
 <br />
 
 <p>
-<img src="https://i.imgur.com/aIR83kO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/REGAOxP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now let's go to Protonvpn.com and install</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/OPzGGDQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OpnqaXD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Protonvpn offers different tiered subscriptions for there services but for this tutorial were going to select the free version</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/3QOs4Wn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vLnpeLh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create an Account</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/chRBa7n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LlviiXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Downloading to the operatring system of your choosing</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/YAefknu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f5BF5Ql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -150,14 +150,14 @@ Downloading to the operatring system of your choosing</p>
 
 <p>
 
-<img src="https://i.imgur.com/dmfoQh9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/H1LRn6J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the download is complete click "open file" or click on the file folder</p>
+Once the download is complete click "open file" or open through your file folder</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/GTnzqa6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GhFYRCn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go through the installation steps</p>
@@ -171,28 +171,21 @@ Go through the installation steps</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/kr64yhI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/AH8Hckj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qbl7dOk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once installation is complete login to your account</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/qyR12UD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TX6P3lp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/yxRZUOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UbBro5a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that were logged into our account connect to a VPN server</p>
