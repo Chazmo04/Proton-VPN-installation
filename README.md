@@ -190,3 +190,17 @@ Once installation is complete login to your account</p>
 <p>
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/yxRZUOL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that were logged into our account connect to a VPN server</p>
+<br />
+
+<p>
+  <img src="https://i.imgur.com/M6awjWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once we connect to a server when we check whatismyipaddress.com again we can see that out ip address has changed indicating that the vpn is working properly </p>
+<br />
