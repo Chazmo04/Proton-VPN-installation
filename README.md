@@ -105,3 +105,10 @@ Click Yes and log in
 <p>
 As you can see we are in our VM as displayed from CMD prompt</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/CEvFaed.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Before we install ProtonVPN view the website whatismyipaddress.com to see you IP Address. As we can see our IP Address is the same one that was created in Azure with the region selected</p>
+<br />
