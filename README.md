@@ -98,3 +98,10 @@ Use the password that you made when you created your VM</p>
 Click Yes and log in
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ApVrIrW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+As you can see we are in our VM as displayed from CMD prompt</p>
+<br />
