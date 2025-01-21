@@ -147,3 +147,11 @@ Downloading to the operatring system of your choosing</p>
 <p>
 </p>
 <br />
+
+<p>
+
+<img src="https://i.imgur.com/dmfoQh9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the download is complete click "open file" or click on the file folder</p>
+<br />
