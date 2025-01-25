@@ -198,7 +198,8 @@ Once we connect to a server when we check whatismyipaddress.com again we can see
 <br />
 
 
-<h2>This concludes our Tutorial of Proton VPN Installation In Azure VM/Home PC</h2>
+<h2>This concludes our Tutorial of Proton VPN Installation In 
+  Azure VM/Home PC</h2>
 
 <b> With the tools and steps provided I hope with what's been shown here is a detailed guide on how to set up your ProtonVPN within a Virtual Machine through Microsoft Azure or your personal home PC. For your ProtonVPN setup for your home PC just skip to the part of the guide were we start to visit the ProtonVPN website and just follow the guide from there and you should be good to go.</b>
 <br />
