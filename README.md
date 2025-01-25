@@ -2,7 +2,7 @@
 <img src="https://play-lh.googleusercontent.com/hferjPeJ9_aWi_r5t8L0qOAwU4ZWAyduYmRkYodJOylRKwOxPI_117GzVSkAnhaNOw=w240-h480-rw" alt="Proton VPN logo"/>
 </p>
 
-<h1> Proton VPN Instalation In Azure VM/Home PC </h1>
+<h1> Proton VPN Installation In Azure VM/Home PC </h1>
 This tutorial describes the prerequisites needed for installing ProtonVPN on your Azure Virtual Machine or Home PC.<br />
 
 <h2>Environments and Websites Used</h2>
@@ -86,7 +86,7 @@ Log into your VM with the public IP address we copied and insert into Remote Des
 <img src="https://i.imgur.com/HGuqjbe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Use the password that you made when you created your VM</p>
+Use the password that you made when you created your VM in Azure</p>
 <br />
 
 <p>
@@ -101,7 +101,7 @@ Click Yes and log in
 <img src="https://i.imgur.com/ApVrIrW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As you can see we are in our VM as displayed from CMD prompt</p>
+As you can see we are in our VM as displayed from cmd prompt</p>
 <br />
 
 <p>
@@ -115,7 +115,7 @@ Before we install ProtonVPN view the website whatismyipaddress.com to see you IP
 <img src="https://i.imgur.com/REGAOxP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now let's go to Protonvpn.com and install</p>
+Now let's go to Protonvpn.com and start the installation process</p>
 <br />
 
 <p>
@@ -136,7 +136,7 @@ Create an Account</p>
 <img src="https://i.imgur.com/LlviiXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Downloading to the operatring system of your choosing</p>
+Downloading to the operatring system of your choice</p>
 <br />
 
 <p>
@@ -179,7 +179,7 @@ Once installation is complete login to your account</p>
 <img src="https://i.imgur.com/TX6P3lp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that were logged into our account connect to a VPN server
+Now that were logged into our account connect to a VPN 
 </p>
 <br />
 
@@ -194,6 +194,13 @@ Now that were logged into our account connect to a VPN server
   <img src="https://i.imgur.com/M6awjWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once we connect to a server when we check whatismyipaddress.com again we can see that out ip address has changed indicating that the vpn is working properly </p>
+Once we connect to a server when we check whatismyipaddress.com again we can see that out IP address has changed indicating that the vpn is working properly </p>
 <br />
 
+
+<h2>This concludes our Tutorial of Proton VPN Installation In Azure VM/Home PC</h2>
+
+<b> With the tools and steps provided I hope with what's been shown here is a detailed guide on how to set up your ProtonVPN within a Virtual Machine through Microsoft Azure or your personal home PC. For your ProtonVPN setup for your home PC just skip to the part of the guide were we start to visit the ProtonVPN website and just follow the guide from there and you should be good to go.</b>
+<br />
+<br />
+</p>
