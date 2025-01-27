@@ -23,7 +23,7 @@ This tutorial describes the prerequisites needed for installing ProtonVPN on you
 <img src="https://i.imgur.com/2F3s9Ws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If your looking to provide a VPN for your Virtual Machine create your VM first
+If your looking to provide a VPN for your VM (Virtual Machine) create your VM first
 </p>
 <br />
 
@@ -136,7 +136,7 @@ Create an Account</p>
 <img src="https://i.imgur.com/LlviiXr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Downloading to the operatring system of your choice</p>
+Downloading to the operating system of your choice</p>
 <br />
 
 <p>
